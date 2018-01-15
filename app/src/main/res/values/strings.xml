@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CouponsInfo</string>
+    <string name="ShowCouponsTop">Show Coupons Top Store</string>
+    <string name="ShowCoupons">Show Coupons</string>
+</resources>
