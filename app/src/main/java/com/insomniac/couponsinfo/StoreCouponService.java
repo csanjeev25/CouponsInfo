@@ -9,7 +9,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class StoreCouponService {
 
-    public static final String BASE_URL = "http://www.zoftino.com/api/";
+    public static final String BASE_URL = "http://10.0.2.2:85/";
     private static Retrofit sRetrofit;
 
     public static Retrofit getRetrofitClient(){
